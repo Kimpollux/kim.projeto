@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.loja{
+    display: flex;
+}
+.barra_pesquisa input{
+    height:3em;
+    width: 35vw;
+    border-radius: 0.5em;
+    border: 1px solid lightpink;
+}
+.logo img{
+width: 15vw;
+}
+.icones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content:space-around;
+}
+    .loja{
+        display: flex;
+    }
+    
